@@ -1,0 +1,12 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                              https://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <servers>
+    <server>
+      <id>java-webapp-feed</id>
+      <username>ambikakannan</username>
+      <password>kkfjgbzm7pki6mlgilgwav463ndslaee6a7fvffqcl2u644rfnvq</password>
+    </server>
+  </servers>
+</settings>
